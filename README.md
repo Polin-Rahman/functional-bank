@@ -1,0 +1,2 @@
+# functional-bank
+JS - practice
